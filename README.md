@@ -13,6 +13,8 @@
 
  ### curiosidades sobre min 
  - 🙃 meu hooby favorito é jogar entre eles: clash royali, Brawl star, path of titans e as vezez Roblox
+ - 
  - 🇧🇷 minha Nacionalidade é Brasileiro, e eu sou do Paraná-Pg
+ - 
  -🟢⚫ minhas cores favoritas são preto e verde
 
