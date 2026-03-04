@@ -1,4 +1,4 @@
-- 🤙 Olá meu nome é Vinicius  
+- 🤙 Olá meu nome é **Vinicius ** 
 - 👋 Sou estudante do Colegio Estadual Presidente Kennedy
 - 💬 Estou no curso tecnico de Desnvolvimentos de Sistemas
 - 🕛 me encontro no 2 ano - faltando 1 ano para ser um tecnico em Desenvolvimento de Sistemas
@@ -12,9 +12,9 @@
  ![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 
  ### curiosidades sobre min 
- - 🙃 meu hooby favorito é jogar entre eles: clash royali, Brawl star, path of titans e as vezez Roblox
  - 🇧🇷 minha Nacionalidade é Brasileiro, e eu sou do Paraná-Pg
  - 🟢⚫ minhas cores favoritas são preto e verde
  - 💯 Meu hobby favorito e jogar nas horas livres
+ - 🎶 Gosto de escutar musicas 
 
 
