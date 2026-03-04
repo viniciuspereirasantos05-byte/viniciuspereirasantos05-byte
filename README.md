@@ -6,7 +6,7 @@
 
  <div align= "center">
 
- ## linguagens:
+ ## <font color="#AC2C63">l</font><font color="#F34177">i</font><font color="#937B54">n</font><font color="#A87EC">g</font><font color="#D410B">u</font><font color="#C12822">a</font><font color="#B82B59">g</font><font color="#D3455D">e</font><font color="#C5044">n</font><font color="#CB6513">s</font><font color="#C82E5D">:</font>:
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ebebeb)
  ![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
